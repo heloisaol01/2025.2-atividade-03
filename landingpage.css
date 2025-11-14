@@ -8,7 +8,7 @@
 /* CSS Custom Properties (Variáveis) */
 :root {
     --primary-color: #282769;
-    --secondary-color: #784994;
+    --secondary-color: #341a64;
     --light-bg: #f8f9fa;
     --text-color: #333;
     --text-secondary: #555;
@@ -62,7 +62,7 @@ header h1 {
 }
 
 .hero {
-    background: linear-gradient(135deg, var(--primary-color) 0%, #361444 100%);
+    background: linear-gradient(135deg, var(--primary-color) 0%, #7a5788 100%);
     color: white;
     padding: 150px 20px 100px;
     text-align: center;
@@ -122,4 +122,98 @@ header h1 {
     background-color: var(--secondary-color);
     margin: 20px auto 0;
     border-radius: 2px;
+}
+
+.info-box {
+    background-color: white;
+    padding: 30px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    transition: transform 0.3s;
+}
+
+.info-box:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+}
+
+.info-box h3 {
+    color: var(--primary-color);
+    margin-bottom: 15px;
+    font-size: 1.5rem;
+}
+
+/* Content Grid */
+.content-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+    margin-top: 40px;
+}
+
+.content-card {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+}
+
+.content-card h3 {
+    color: var(--primary-color);
+    margin-bottom: 15px;
+    font-size: 1.3rem;
+}
+
+.content-card ul {
+    list-style-position: inside;
+    color: var(--text-secondary);
+}
+
+.content-card ul li {
+    padding: 8px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.content-card ul li:last-child {
+    border-bottom: none;
+}
+
+/* Atuação Grid */
+.atuacao-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+}
+
+.atuacao-card {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    border-left: 5px solid var(--primary-color);
+}
+
+.atuacao-card h3 {
+    color: var(--primary-color);
+    margin-bottom: 20px;
+    font-size: 1.4rem;
+}
+
+.atuacao-card ul {
+    list-style: none;
+}
+
+.atuacao-card ul li {
+    padding: 10px 0;
+    padding-left: 25px;
+    position: relative;
+}
+
+.atuacao-card ul li::before {
+    content: '✓';
+    position: absolute;
+    left: 0;
+    color: var(--secondary-color);
+    font-weight: bold;
 }
