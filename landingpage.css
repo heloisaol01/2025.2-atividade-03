@@ -7,8 +7,8 @@
 
 /* CSS Custom Properties (Variáveis) */
 :root {
-    --primary-color: #ae87ce;
-    --secondary-color: #484796;
+    --primary-color: #282769;
+    --secondary-color: #784994;
     --light-bg: #f8f9fa;
     --text-color: #333;
     --text-secondary: #555;
@@ -62,7 +62,7 @@ header h1 {
 }
 
 .hero {
-    background: linear-gradient(135deg, var(--primary-color) 0%, #2d7a4d 100%);
+    background: linear-gradient(135deg, var(--primary-color) 0%, #361444 100%);
     color: white;
     padding: 150px 20px 100px;
     text-align: center;
@@ -95,5 +95,31 @@ header h1 {
 
 .btn-cta:hover {
     transform: translateY(-3px);
-    box-shadow: 0 5px 15px rgba(255, 107, 53, 0.4);
+    box-shadow: 0 5px 15px rgba(201, 157, 141, 0.4);
+}
+
+.section {
+    padding: 80px 20px;
+}
+
+.bg-light {
+    background-color: var(--light-bg);
+}
+
+.section h2 {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 3rem;
+    color: var(--primary-color);
+    position: relative;
+}
+
+.section h2::after {
+    content: '';
+    display: block;
+    width: 80px;
+    height: 4px;
+    background-color: var(--secondary-color);
+    margin: 20px auto 0;
+    border-radius: 2px;
 }
