@@ -588,10 +588,10 @@ footer p {
 - [x] Criar footer com links úteis
 
 ### Responsividade
-- [ ] Implementar media queries para dispositivos móveis
-- [ ] Testar layout em diferentes tamanhos de tela
-- [ ] Garantir que o menu seja utilizável em mobile
-- [ ] Verificar legibilidade em telas pequenas
+- [x] Implementar media queries para dispositivos móveis
+- [x] Testar layout em diferentes tamanhos de tela
+- [x] Garantir que o menu seja utilizável em mobile
+- [x] Verificar legibilidade em telas pequenas
 
 ### Qualidade e Validação
 - [ ] Validar HTML no [W3C Validator](https://validator.w3.org/)

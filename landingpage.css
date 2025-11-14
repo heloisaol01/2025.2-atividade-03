@@ -281,3 +281,43 @@ footer p {
 .footer-links a:hover {
     background-color: rgba(255, 255, 255, 0.2);
 }
+
+@media (max-width: 768px) {
+    .hero-content h1 {
+        font-size: 2rem;
+    }
+    
+    .hero-subtitle {
+        font-size: 1.2rem;
+    }
+    
+    .section h2 {
+        font-size: 2rem;
+    }
+    
+    .nav-menu {
+        justify-content: center;
+        font-size: 0.9rem;
+    }
+
+    .nav-menu li a {
+        padding: 5px 8px; /* reduz o padding para economizar espaço */
+        font-size: 0.85rem;
+    }
+    
+    .content-grid,
+    .atuacao-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .ficha-table th,
+    .ficha-table td {
+        display: block;
+        width: 100%;
+    }
+    
+    .ficha-table th {
+        border-bottom: none;
+        padding-bottom: 10px;
+    }
+}
