@@ -134,8 +134,16 @@ body {
 
 /* Responsividade */
 @media (max-width: 768px) {
+    .cards-wrapper {
+        flex-direction: column;
+    }
+
     .container h1 {
         font-size: 2em;
+    }
+
+    .card {
+        flex: 1 1 100%;
     }
     
     .card-header h2 {

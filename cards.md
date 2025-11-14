@@ -286,7 +286,7 @@ Depois de implementar o card básico, tente os seguintes desafios:
 - [x] Card contém título com nome da disciplina e professores
 - [x] Card contém conteúdo com objetivo, carga horária, tecnologias e conceitos
 - [x] Card contém rodapé com horários e locais
-- [ ] Design é responsivo e funciona em diferentes tamanhos de tela
+- [x] Design é responsivo e funciona em diferentes tamanhos de tela
 - [x] Código está bem indentado e organizado
 - [x] Projeto está versionado no GitHub
 
