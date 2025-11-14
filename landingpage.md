@@ -557,34 +557,34 @@ footer p {
 
 ### Seção 1: Informações Gerais
 - [x] Adicionar nome completo do curso
-- [ ] Incluir nome do coordenador (consultar site oficial)
-- [ ] Adicionar informações sobre a instituição
+- [x] Incluir nome do coordenador (consultar site oficial)
+- [x] Adicionar informações sobre a instituição
 
 ### Seção 2: Perfil do Curso
-- [ ] Apresentar o curso com base nas informações oficiais
-- [ ] Listar os objetivos do curso
-- [ ] Destacar diferenciais e características especiais
+- [x] Apresentar o curso com base nas informações oficiais
+- [x] Listar os objetivos do curso
+- [x] Destacar diferenciais e características especiais
 
 ### Seção 3: Perfil de Atuação
-- [ ] Listar áreas de atuação do profissional
-- [ ] Descrever competências desenvolvidas no curso
-- [ ] Incluir informações sobre mercado de trabalho
+- [x] Listar áreas de atuação do profissional
+- [x] Descrever competências desenvolvidas no curso
+- [x] Incluir informações sobre mercado de trabalho
 
 ### Seção 4: Ficha Técnica
-- [ ] Criar tabela com informações técnicas do curso
-- [ ] Incluir duração do curso
-- [ ] Adicionar carga horária total
-- [ ] Especificar turno de oferta
-- [ ] Informar modalidade de ensino
-- [ ] Indicar tipo de certificação
+- [x] Criar tabela com informações técnicas do curso
+- [x] Incluir duração do curso
+- [x] Adicionar carga horária total
+- [x] Especificar turno de oferta
+- [x] Informar modalidade de ensino
+- [x] Indicar tipo de certificação
 
 ### Estilização CSS
-- [ ] Criar arquivo `landingpage.css`
-- [ ] Aplicar reset CSS básico
-- [ ] Estilizar header e navegação
-- [ ] Criar hero section atrativa
-- [ ] Estilizar todas as seções com cores e espaçamentos adequados
-- [ ] Estilizar a tabela da ficha técnica
+- [x] Criar arquivo `landingpage.css`
+- [x] Aplicar reset CSS básico
+- [x] Estilizar header e navegação
+- [x] Criar hero section atrativa
+- [x] Estilizar todas as seções com cores e espaçamentos adequados
+- [x] Estilizar a tabela da ficha técnica
 - [ ] Criar footer com links úteis
 
 ### Responsividade
