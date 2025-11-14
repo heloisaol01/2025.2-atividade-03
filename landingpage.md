@@ -585,7 +585,7 @@ footer p {
 - [x] Criar hero section atrativa
 - [x] Estilizar todas as seções com cores e espaçamentos adequados
 - [x] Estilizar a tabela da ficha técnica
-- [ ] Criar footer com links úteis
+- [x] Criar footer com links úteis
 
 ### Responsividade
 - [ ] Implementar media queries para dispositivos móveis
