@@ -11,6 +11,13 @@ body {
 }
 
 h1 {
+    font-family: "Golos Text", sans-serif;
+    text-align: center;
+    color: #333;
+    margin-bottom: 10px;
+}
+h2 {
+    font-family: "Iceland", sans-serif;
     text-align: center;
     color: #333;
     margin-bottom: 30px;
@@ -28,15 +35,25 @@ table {
 }
 
 thead {
-    background-color: #4CAF50;
+    background-color: #824caf;
     color: white;
 }
 
 th {
+    font-family: "TikTok Sans", sans-serif;
     padding: 15px;
     text-align: left;
     font-size: 16px;
     font-weight: bold;
+
+}
+
+th.conceito {
+    width: 50%;
+}
+
+th.tec {
+    width: 25%;
 }
 
 tbody tr {
