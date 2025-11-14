@@ -594,17 +594,17 @@ footer p {
 - [x] Verificar legibilidade em telas pequenas
 
 ### Qualidade e Validação
-- [ ] Validar HTML no [W3C Validator](https://validator.w3.org/)
-- [ ] Validar CSS no [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
-- [ ] Verificar se todas as informações estão corretas e atualizadas
-- [ ] Revisar ortografia e gramática
-- [ ] Testar todos os links
+- [x] Validar HTML no [W3C Validator](https://validator.w3.org/)
+- [x] Validar CSS no [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+- [x] Verificar se todas as informações estão corretas e atualizadas
+- [x] Revisar ortografia e gramática
+- [x] Testar todos os links
 
 ### Entrega
-- [ ] Código bem indentado e organizado
-- [ ] Comentários explicativos quando necessário
-- [ ] Commit no GitHub com mensagem descritiva
-- [ ] Verificar se a página está funcionando corretamente
+- [x] Código bem indentado e organizado
+- [x] Comentários explicativos quando necessário
+- [x] Commit no GitHub com mensagem descritiva
+- [x] Verificar se a página está funcionando corretamente
 
 ---
 
