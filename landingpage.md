@@ -541,22 +541,22 @@ footer p {
 ## ✅ Checklist da Atividade
 
 ### Preparação
-- [ ] Acessar o site oficial do curso: https://diatinf.ifrn.edu.br/cursos/tecnologia-em-analise-e-desenvolvimento-de-sistemas/
-- [ ] Ler todas as informações disponíveis no site
-- [ ] Anotar os dados necessários para cada seção
+- [x] Acessar o site oficial do curso: https://diatinf.ifrn.edu.br/cursos/tecnologia-em-analise-e-desenvolvimento-de-sistemas/
+- [x] Ler todas as informações disponíveis no site
+- [x] Anotar os dados necessários para cada seção
 
 ### Estrutura HTML
-- [ ] Criar arquivo `landingpage.html` com estrutura HTML5 válida
-- [ ] Definir `<meta charset="UTF-8">` e viewport para responsividade
-- [ ] Criar título descritivo na tag `<title>`
-- [ ] Adicionar link para arquivo CSS externo
+- [x] Criar arquivo `landingpage.html` com estrutura HTML5 válida
+- [x] Definir `<meta charset="UTF-8">` e viewport para responsividade
+- [x] Criar título descritivo na tag `<title>`
+- [x] Adicionar link para arquivo CSS externo
 
 ### Navegação
-- [ ] Implementar menu de navegação com links para as seções
-- [ ] Garantir que os links de navegação funcionem corretamente (navegação âncora)
+- [x] Implementar menu de navegação com links para as seções
+- [x] Garantir que os links de navegação funcionem corretamente (navegação âncora)
 
 ### Seção 1: Informações Gerais
-- [ ] Adicionar nome completo do curso
+- [x] Adicionar nome completo do curso
 - [ ] Incluir nome do coordenador (consultar site oficial)
 - [ ] Adicionar informações sobre a instituição
 
