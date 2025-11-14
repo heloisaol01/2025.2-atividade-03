@@ -281,8 +281,8 @@ Depois de implementar o card básico, tente os seguintes desafios:
 
 ## ✅ Checklist de Entrega
 
-- [ ] Arquivo `cards.html` criado com a estrutura correta
-- [ ] Arquivo `cards.css` criado com estilização adequada
+- [x] Arquivo `cards.html` criado com a estrutura correta
+- [x] Arquivo `cards.css` criado com estilização adequada
 - [ ] Card contém título com nome da disciplina e professores
 - [ ] Card contém conteúdo com objetivo, carga horária, tecnologias e conceitos
 - [ ] Card contém rodapé com horários e locais
