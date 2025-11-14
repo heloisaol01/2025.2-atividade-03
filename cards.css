@@ -11,6 +11,13 @@ body {
     line-height: 1.6;
 }
 
+.cards-wrapper {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    align-items: stretch;
+}
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
@@ -25,6 +32,9 @@ body {
 
 /* Estilo do Card */
 .card {
+    display: flex;
+    flex-direction: column;
+    flex: 1; /* cards ocupam espaço igual */
     background-color: #fff;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -60,6 +70,7 @@ body {
 /* Conteúdo do Card */
 .card-content {
     padding: 25px;
+    flex-grow: 1;
 }
 
 .card-content h3 {
@@ -103,6 +114,7 @@ body {
     background-color: #f9f9f9;
     padding: 20px;
     border-top: 2px solid #e0e0e0;
+    margin-top: 0
 }
 
 .card-footer h3 {
