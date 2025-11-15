@@ -13,5 +13,5 @@
 ## Atividades
 - [x] [Atividade 03 - Tabelas](tabelas.md)
 - [x] [Atividade 04 - Cards](cards.md)
-- [ ] [Atividade 05 - landing page](landingpage.md)
-- [ ] [Atividade 06 - replica do gemini](replica.md)
+- [x] [Atividade 05 - landing page](landingpage.md)
+- [x] [Atividade 06 - replica do gemini](replica.md)
